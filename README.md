@@ -15,3 +15,4 @@
 - conda activate venv/
 - `python --version` now correctly shows 3.11.11 which was showing 3.13.1 before with the conda base auto activated
 - Used to pip install all packages from a requirements file: `pip install -r requirements.txt`
+- Added in a handful of aliases to the .zshrc They are condaa, condad, condac
