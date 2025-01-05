@@ -1,1 +1,11 @@
+# System files
+.DS_Store
+
+# Conda files
 venv/
+
+# Project files
+####################
+
+# Below is from Udemy course so keeping locally for Copyright reasons
+assignment_*.ipynb
