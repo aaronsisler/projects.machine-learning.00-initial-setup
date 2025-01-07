@@ -1,10 +1,16 @@
-# projects.machine-learning.00-initial-setup
+# projects.machine-learning.00-python-refresher
 
 ## General Notes
 
 - Current latest version of Python is 3.13.1
 
-## What we have done
+## Current Section
+
+### What we have done
+
+## Previous Sections
+
+### Section 02: What we have done
 
 - Needed to turn off the auto activate base that was turned on back in the day
 
