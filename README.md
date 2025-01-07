@@ -4,11 +4,7 @@
 
 - Current latest version of Python is 3.13.1
 
-## Current Section
-
-### What we have done
-
-## Previous Sections
+### Section 03: What we have done
 
 ### Section 02: What we have done
 
