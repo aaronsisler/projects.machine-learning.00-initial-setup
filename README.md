@@ -4,7 +4,11 @@
 
 - Current latest version of Python is 3.13.1
 
-### Section 03: What we have done
+## Open Questions
+
+### Section 11
+
+- I don't understand the `yield` word in the sense of how it can help to read a large file line by line without needing to load the entire file into memory
 
 ### Section 02: What we have done
 
